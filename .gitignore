@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Do not commit data/outputs
+data/
+outputs/
+*.csv
+*.tif
+*.tiff
+*.npz
+*.npy
+
+# env
+.venv/
+.env
